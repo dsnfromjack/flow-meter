@@ -2,17 +2,16 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/u3266744/public_html/
-    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp -R assets $DEPLOYPATH
     - /bin/cp bower.json $DEPLOYPATH
     - /bin/cp CHANGELOG.md $DEPLOYPATH
     - /bin/cp composer.json $DEPLOYPATH
     - /bin/cp gulpfile.js $DEPLOYPATH
     - /bin/cp LICENSE.md $DEPLOYPATH
     - /bin/cp package.json $DEPLOYPATH
-    - /bin/cp index.html $DEPLOYPATH
     - /bin/cp product-detail-tokico-1-2inch-dn15.html $DEPLOYPATH
     - /bin/cp product-detail-tokico-1-2inch-dn20.html $DEPLOYPATH
     - /bin/cp product-detail-tokico-1inch-dn25.html $DEPLOYPATH
     - /bin/cp product-detail-tokico-2inch-dn50.html $DEPLOYPATH
-    - /bin/cp product-detail.html $DEPLOYPATH
+    - /bin/cp products.html $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
