@@ -13,5 +13,10 @@ deployment:
     - /bin/cp product-detail-tokico-1-2inch-dn20.html $DEPLOYPATH
     - /bin/cp product-detail-tokico-1inch-dn25.html $DEPLOYPATH
     - /bin/cp product-detail-tokico-2inch-dn50.html $DEPLOYPATH
+    - /bin/cp pr-amico-1per2in-dn15.html $DEPLOYPATH
+    - /bin/cp pr-amico-2in-dn50.html $DEPLOYPATH
+    - /bin/cp pr-amico-3in-dn80.html $DEPLOYPATH
+    - /bin/cp pr-amico-3per4in-dn20.html $DEPLOYPATH
+    - /bin/cp pr-shm-4inc-dn100.html $DEPLOYPATH
     - /bin/cp products.html $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
