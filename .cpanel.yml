@@ -18,5 +18,9 @@ deployment:
     - /bin/cp pr-amico-3in-dn80.html $DEPLOYPATH
     - /bin/cp pr-amico-3per4in-dn20.html $DEPLOYPATH
     - /bin/cp pr-shm-4inc-dn100.html $DEPLOYPATH
+    - /bin/cp pr-shm-6inc-dn150.html $DEPLOYPATH
+    - /bin/cp pr-shm-8inc-dn200.html $DEPLOYPATH
+    - /bin/cp pr-shm-10inc-dn250.html $DEPLOYPATH
+    - /bin/cp pr-shm-12inc-dn300.html $DEPLOYPATH
     - /bin/cp products.html $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
