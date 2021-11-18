@@ -3,6 +3,7 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/u3266744/public_html/
     - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp madumateknik.png $DEPLOYPATH
     - /bin/cp bower.json $DEPLOYPATH
     - /bin/cp CHANGELOG.md $DEPLOYPATH
     - /bin/cp composer.json $DEPLOYPATH
