@@ -23,6 +23,10 @@ deployment:
     - /bin/cp pr-shm-8inc-dn200.html $DEPLOYPATH
     - /bin/cp pr-shm-10inc-dn250.html $DEPLOYPATH
     - /bin/cp pr-shm-12inc-dn300.html $DEPLOYPATH
+    - /bin/cp pr-itron-1per2inc-dn15.html $DEPLOYPATH
+    - /bin/cp pr-itron-3per4inc-dn20.html $DEPLOYPATH
+    - /bin/cp pr-itron-1inc-dn25.html $DEPLOYPATH
+    - /bin/cp pr-itron-1per5inc-dn40.html $DEPLOYPATH
     - /bin/cp pr-itron-2inc-dn50.html $DEPLOYPATH
     - /bin/cp pr-itron-3inc-dn80.html $DEPLOYPATH
     - /bin/cp pr-itron-6inc-dn150.html $DEPLOYPATH
